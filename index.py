@@ -31,11 +31,7 @@ def main(page: ft.Page):
     )
 
     page.add(img)
-
-    #flet <= 0.20
-    # asyncio.run(animate())
-
-    # flet >=
+    
     page.run_task(animate)
 
 if __name__ == '__main__':
