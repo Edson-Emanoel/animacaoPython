@@ -1,7 +1,7 @@
 ## Como ficou
 
-<img src="" />
+<video autoplay src="animacao.mp4"></video>
 
 ## Ref.
 
-https://www.youtube.com/watch?v=BuKk43_Gxr0
+https://www.youtube.com/watch?v=BuKk43_Gxr0 
